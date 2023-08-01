@@ -1,0 +1,6 @@
+com/examly/springapp/SpringappApplication.class
+com/examly/springapp/repository/HouseRepository.class
+com/examly/springapp/model/House.class
+com/examly/springapp/utils/ErrorResponse.class
+com/examly/springapp/service/HouseService.class
+com/examly/springapp/controller/HouseController.class
