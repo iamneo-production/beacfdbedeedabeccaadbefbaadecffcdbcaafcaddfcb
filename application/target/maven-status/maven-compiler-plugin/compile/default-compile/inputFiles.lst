@@ -1,6 +1,6 @@
 /home/coder/project/workspace/application/src/main/java/com/examly/springapp/SpringappApplication.java
 /home/coder/project/workspace/application/src/main/java/com/examly/springapp/controller/HouseController.java
 /home/coder/project/workspace/application/src/main/java/com/examly/springapp/model/House.java
-/home/coder/project/workspace/application/src/main/java/com/examly/springapp/utils/ErrorResponse.java
 /home/coder/project/workspace/application/src/main/java/com/examly/springapp/repository/HouseRepository.java
+/home/coder/project/workspace/application/src/main/java/com/examly/springapp/utils/ErrorResponse.java
 /home/coder/project/workspace/application/src/main/java/com/examly/springapp/service/HouseService.java
